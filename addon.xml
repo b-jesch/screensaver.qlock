@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="screensaver.qlock" name="QLock Screensaver" version="0.0.1+matrix" provider-name="phil65, Matrix version by PvD">
+<addon id="screensaver.qlock" name="QLock Screensaver" version="0.0.2+matrix" provider-name="phil65, Matrix version by PvD">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="service.qlock" version="0.0.1+matrix"/>
