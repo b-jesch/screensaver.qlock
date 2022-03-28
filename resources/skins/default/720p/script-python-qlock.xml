@@ -30,8 +30,8 @@
 					<font>font30</font>
 					<textwidth>20</textwidth>
 					<align>center</align>
-					<textcolor>CCFFFFFF</textcolor>
-					<disabledcolor>CC444444</disabledcolor>
+					<textcolor>$INFO[Window(Home).Property(Qlock.color)]</textcolor>
+					<disabledcolor>$INFO[Window(Home).Property(Qlock.luminance)]</disabledcolor>
 					<label>[B]°[/B]</label>
 					<texturenofocus></texturenofocus>
 					<texturefocus></texturefocus>
@@ -45,8 +45,8 @@
 					<font>font30</font>
 					<textwidth>20</textwidth>
 					<align>center</align>
-					<textcolor>CCFFFFFF</textcolor>
-					<disabledcolor>CC444444</disabledcolor>
+					<textcolor>$INFO[Window(Home).Property(Qlock.color)]</textcolor>
+					<disabledcolor>$INFO[Window(Home).Property(Qlock.luminance)]</disabledcolor>
 					<label>[B]°[/B]</label>
 					<texturenofocus></texturenofocus>
 					<texturefocus></texturefocus>
@@ -60,8 +60,8 @@
 					<font>font30</font>
 					<textwidth>20</textwidth>
 					<align>center</align>
-					<textcolor>CCFFFFFF</textcolor>
-					<disabledcolor>CC444444</disabledcolor>
+					<textcolor>$INFO[Window(Home).Property(Qlock.color)]</textcolor>
+					<disabledcolor>$INFO[Window(Home).Property(Qlock.luminance)]</disabledcolor>
 					<label>[B]°[/B]</label>
 					<texturenofocus></texturenofocus>
 					<texturefocus></texturefocus>
@@ -75,8 +75,8 @@
 					<font>font30</font>
 					<textwidth>20</textwidth>
 					<align>center</align>
-					<textcolor>CCFFFFFF</textcolor>
-					<disabledcolor>CC444444</disabledcolor>
+					<textcolor>$INFO[Window(Home).Property(Qlock.color)]</textcolor>
+					<disabledcolor>$INFO[Window(Home).Property(Qlock.luminance)]</disabledcolor>
 					<label>[B]°[/B]</label>
 					<texturenofocus></texturenofocus>
 					<texturefocus></texturefocus>
@@ -100,8 +100,8 @@
 						<width>50</width>
 						<height>50</height>
 						<font>font13</font>
-						<textcolor>CC555555</textcolor>
-						<selectedcolor>CC555555</selectedcolor>
+						<textcolor>$INFO[Window(Home).Property(Qlock.luminance)]</textcolor>
+						<selectedcolor>$INFO[Window(Home).Property(Qlock.luminance)]</selectedcolor>
 						<align>center</align>
 						<aligny>center</aligny>
 						<label>[B]$INFO[ListItem.Label][/B]</label>
@@ -112,8 +112,8 @@
 						<width>50</width>
 						<height>50</height>
 						<font>font13</font>
-						<textcolor>CCFFFFFF</textcolor>
-						<selectedcolor>CCFFFFFF</selectedcolor>
+						<textcolor>$INFO[Window(Home).Property(Qlock.color)]</textcolor>
+						<selectedcolor>$INFO[Window(Home).Property(Qlock.color)]</selectedcolor>
 						<align>center</align>
 						<aligny>center</aligny>
 						<label>[B]$INFO[ListItem.Label2][/B]</label>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="5">
+        <setting id="color" label="30000" type="action" action="RunScript(script.skin.helper.colorpicker,winproperty=Qlock.colorpicker)" option="close" default="ffe8e8e8" />
+        <setting id="luminance" label="30001" type="labelenum" values="0|1|2|3|4|5|6|7|8" default="3" />
+    </category>
+</settings>

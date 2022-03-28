@@ -17,17 +17,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30000"
-msgid "Source of slideshow images"
+msgid "Highlight Color"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Folder"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Image Folder"
-msgstr ""
-
-msgctxt "#30024"
-msgid "Basic"
+msgid "Background Luminance"
 msgstr ""
