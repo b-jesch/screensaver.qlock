@@ -35,7 +35,7 @@
 					<label>[B]°[/B]</label>
 					<texturenofocus></texturenofocus>
 					<texturefocus></texturefocus>
-					<enable>String.IsEqual(System.Time(mm),01) | String.IsEqual(System.Time(mm),11) | String.IsEqual(System.Time(mm),21) | String.IsEqual(System.Time(mm),31) | String.IsEqual(System.Time(mm),41) | String.IsEqual(System.Time(mm),51) | String.IsEqual(System.Time(mm),06,right) | String.IsEqual(System.Time(mm),16,right) | String.IsEqual(System.Time(mm),26,right) | String.IsEqual(System.Time(mm),36,right) | String.IsEqual(System.Time(mm),46,right) | String.IsEqual(System.Time(mm),56,right) | Control.isEnabled(5097)</enable>
+					<enable>String.IsEqual(System.Time(mm),01) | String.IsEqual(System.Time(mm),11) | String.IsEqual(System.Time(mm),21) | String.IsEqual(System.Time(mm),31) | String.IsEqual(System.Time(mm),41) | String.IsEqual(System.Time(mm),51) | String.IsEqual(System.Time(mm),06) | String.IsEqual(System.Time(mm),16) | String.IsEqual(System.Time(mm),26) | String.IsEqual(System.Time(mm),36) | String.IsEqual(System.Time(mm),46) | String.IsEqual(System.Time(mm),56) | Control.isEnabled(5097)</enable>
 				</control>
 				<control type="button" id="5097">
 					<posx>555</posx>
