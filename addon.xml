@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="screensaver.qlock" name="QLock Screensaver" version="0.0.4+matrix" provider-name="phil65, Matrix version by PvD">
+<addon id="screensaver.qlock" name="QLock Screensaver" version="0.0.1+nexus" provider-name="phil65, Nexus version by PvD">
 	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="xbmc.python" version="3.0.1"/>
+		<import addon="xbmc.gui" version="5.16.0"/>
 		<import addon="service.qlock" version="0.0.1+matrix"/>
-		<import addon="script.skin.helper.colorpicker" version="2.0.0"/>
 	</requires>
 	<extension point="xbmc.ui.screensaver" library="default.py"/>
 	<extension point="xbmc.python.script" library="default.py" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Screensaver which makes use of the Qlock service by Amet (Team-Kodi). Forked from phil65 (Team-Kodi) and adapted to Matrix by PvD from Kodinerds</summary>
+		<summary lang="en_GB">Screensaver which makes use of the Qlock service by Amet (Team-Kodi). Forked from phil65 (Team-Kodi) and adapted to Nexus by PvD from Kodinerds</summary>
 		<description lang="en_GB">A screensaver which makes use of the Qlock service to display a letter matrix clock.</description>
 		<language></language>
 		<platform>all</platform>
