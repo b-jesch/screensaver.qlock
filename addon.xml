@@ -3,7 +3,6 @@
 	<requires>
 		<import addon="xbmc.python" version="3.0.1"/>
 		<import addon="service.qlock" version="0.0.1+nexus"/>
-		<!-- <import addon="script.skin.helper.colorpicker" version="2.0.0"/> -->
 	</requires>
 	<extension point="xbmc.ui.screensaver" library="default.py"/>
 	<extension point="xbmc.python.script" library="default.py" />
